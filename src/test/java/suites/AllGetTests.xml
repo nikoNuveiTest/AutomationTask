@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AllGetTestsSuite">
+    <test name="AllGetTests">
+        <classes>
+            <class name="tests.repoTests.GetRepo" />
+        </classes>
+    </test>
+</suite>
